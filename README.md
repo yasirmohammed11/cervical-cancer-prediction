@@ -1,4 +1,4 @@
-# uterine_cancer_flutter_app
+# cancer_flutter_app
 
 A new Flutter project.
 
